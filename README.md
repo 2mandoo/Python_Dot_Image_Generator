@@ -1,4 +1,7 @@
 # 이미지 색상 추출 및 픽셀화 도구 🎨
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
  이미지를 불러와 특정 색상을 선택하고, 선택한 색상들을 이용해 이미지를 픽셀화하는 Python 기반 도구입니다. 
  
